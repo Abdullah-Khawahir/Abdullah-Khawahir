@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AI agent framwork**
 
-- 🤝 I’m looking and second opinoin for help with **AI agent framwork**
+- 🤝 I’m looking for second opinoin help with my **AI agent framwork**
 
 - 💬 Ask me about **linux :D**
 
